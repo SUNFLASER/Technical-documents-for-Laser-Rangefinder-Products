@@ -30,6 +30,7 @@ Sunflaser offers a family of compact, ruggedized laser rangefinder modules based
 | **SFL0310** | Long distance | [SFL0310 Product Manual (EN)](SFL0310Product%20Manual-EN.pdf) |
 | **SFL0315** | Ultra-long range | [SFL0315 Product Manual (EN)](SFL0315Product%20Manual-EN.pdf) |
 | **SFL0603** | Compact wide-angle | [SFL0603 Product Manual (EN)](SFL0603Product%20Manual-EN.pdf) |
+| **SFA60** | Compact phase-shift laser rangefinder module | [SFA60 Product Manual (EN)](SFA60Product%20Manual-EN.pdf) |
 
 > **Note**: Click any document link to view or download the PDF. All documents are in English.
 
