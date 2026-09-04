@@ -30,6 +30,23 @@ Sunflaser offers a family of compact, ruggedized laser rangefinder modules based
 | **SFL0310** | Long distance | [SFL0310 Product Manual (EN)](SFL0310Product%20Manual-EN.pdf) |
 | **SFL0315** | Ultra-long range | [SFL0315 Product Manual (EN)](SFL0315Product%20Manual-EN.pdf) |
 | **SFL0603** | Compact wide-angle | [SFL0603 Product Manual (EN)](SFL0603Product%20Manual-EN.pdf) |
+| **SFA60** | 650nm phase-shift rangefinder, 0.03–60m, ±2mm accuracy | [SFA60 Product Manual (EN)](SFA60Product%20Manual-EN.pdf) |
+| **SFA200AH** | 905nm ToF rangefinder, ≥200m, 1–20kHz acquisition | [SFA200AH Product Manual (EN)](SFA200AH-Product%20Manual-EN.pdf) |
+| **SFA600A** | 905nm ToF rangefinder, ≥600m, lightweight design | [SFA600A Product Manual (EN)](SFA600A-Product%20Manual-EN.pdf) |
+| **SFA1000A** | 905nm ToF rangefinder, ≥1000m, compact design | [SFA1000A Product Manual (EN)](SFA1000A-Product%20Manual-EN.pdf) |
+| **SFA1000C** | 905nm miniature rangefinder, ≥1000m, ≤12g | [SFA1000C Product Manual (EN)](SFA1000C-Product%20Manual-EN.pdf) |
+| **SFA1000D** | 905nm compact rangefinder, ≥1000m, φ17mm | [SFA1000D Product Manual (EN)](SFA1000D-Product%20Manual-EN.pdf) |
+| **SFA1200AJ** | 905nm rangefinder, ≥1200m, Class 1, IP67 | [SFA1200AJ Product Manual (EN)](SFA1200AJ-Product%20Manual-EN.pdf) |
+| **SFA1200BJ** | 905nm rangefinder, ≥1200m, lightweight, IP67 | [SFA1200BJ Product Manual (EN)](SFA1200BJ-Product%20Manual-EN.pdf) |
+| **SFA1200B** | 905nm ultra-compact rangefinder, ≥1200m, ≤5g | [SFA1200B Product Manual (EN)](SFA1200B-Product%20Manual-EN.pdf) |
+| **SFA1500A** | 905nm miniature rangefinder, ≥1500m, ≤20g | [SFA1500A Product Manual (EN)](SFA1500A-Product%20Manual-EN.pdf) |
+| **SFA1500C** | 905nm compact rangefinder, ≥1500m, multi-frequency | [SFA1500C Product Manual (EN)](SFA1500C-Product%20Manual-EN.pdf) |
+| **SFA2000A** | 905nm ToF rangefinder, ≥2000m, Class 1 | [SFA2000A Product Manual (EN)](SFA2000A-Product%20Manual-EN.pdf) |
+| **SFA2000B** | 905nm miniature rangefinder, ≥2000m, ≤6.5g | [SFA2000B Product Manual (EN)](SFA2000B-Product%20Manual-EN.pdf) |
+| **SFA2000C** | 905nm ToF rangefinder, ≥2000m, high integration | [SFA2000C Product Manual (EN)](SFA2000C-Product%20Manual-EN.pdf) |
+| **SFA2500BJ** | 905nm rangefinder, ≥2500m, low power, Class 1 | [SFA2500BJ Product Manual (EN)](SFA2500BJ-Product%20Manual-EN.pdf) |
+| **SFA3000A** | 905nm miniature rangefinder, ≥3000m, ≤30g | [SFA3000A Product Manual (EN)](SFA3000A-Product%20Manual-EN.pdf) |
+| **SFA3000B** | 905nm ToF rangefinder, ≥3000m, Class 1 eye-safe | [SFA3000B Product Manual (EN)](SFA3000B-Product%20Manual-EN.pdf) |
 | **SFA60** | Compact phase-shift laser rangefinder module | [SFA60 Product Manual (EN)](SFA60Product%20Manual-EN.pdf) |
 
 > **Note**: Click any document link to view or download the PDF. All documents are in English.
