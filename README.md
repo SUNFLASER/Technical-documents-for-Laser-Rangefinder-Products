@@ -48,7 +48,19 @@ Sunflaser offers a family of compact, ruggedized laser rangefinder modules based
 | **SFA3000A** | 905nm miniature rangefinder, ≥3000m, ≤30g | [SFA3000A Product Manual (EN)](SFA3000A-Product%20Manual-EN.pdf) |
 | **SFA3000B** | 905nm ToF rangefinder, ≥3000m, Class 1 eye-safe | [SFA3000B Product Manual (EN)](SFA3000B-Product%20Manual-EN.pdf) |
 | **SFA60** | Compact phase-shift laser rangefinder module | [SFA60 Product Manual (EN)](SFA60Product%20Manual-EN.pdf) |
-
+| **SFL0305** | 1535nm erbium-glass rangefinder, TOF, Class 1 | [SFL0305 Product Manual (EN)](SFL0305Product%20Manual-EN.pdf) |
+| **SFL0306** | 1535nm erbium-glass rangefinder, RS422 interface | [SFL0306 Product Manual (EN)](SFL0306Product%20Manual-EN.pdf) |
+| **SFL0308** | 1535nm erbium-glass rangefinder, RS422 + CAN bus | [SFL0308 Product Manual (EN)](SFL0308Product%20Manual-EN.pdf) |
+| **SFL0310** | 1535nm erbium-glass rangefinder, RS422 + CAN | [SFL0310 Product Manual (EN)](SFL0310Product%20Manual-EN.pdf) |
+| **SFL0315** | 1535nm erbium-glass rangefinder, long-range | [SFL0315 Product Manual (EN)](SFL0315Product%20Manual-EN.pdf) |
+| **SFL0603** | 1535nm erbium-glass rangefinder, RS422 interface | [SFL0603 Product Manual (EN)](SFL0603Product%20Manual-EN.pdf) |
+| **SFL1600AW** | 1535nm UAV rangefinder, ≥1.6km against Phantom 4 | [SFL1600AW Product Manual (EN)](SFL1600AWProduct%20Manual-EN.pdf) |
+| **SFL1700AW** | 1535nm UAV rangefinder, ≥1.7km against Phantom 4 | [SFL1700AW Product Manual (EN)](SFL1700AWProduct%20Manual-EN.pdf) |
+| **SFL2000AW** | 1535nm UAV rangefinder, ≥2km against Phantom 4 | [SFL2000AW Product Manual (EN)](SFL2000AWProduct%20Manual-EN.pdf) |
+| **SFL3000AW** | 1535nm UAV rangefinder, ≥3km against Phantom 4 | [SFL3000AW Product Manual (EN)](SFL3000AWProduct%20Manual-EN.pdf) |
+| **SFL3300AW** | 1535nm UAV rangefinder, ≥3.3km against Phantom 4 | [SFL3300AW Product Manual (EN)](SFL3300AWProduct%20Manual-EN.pdf) |
+| **SFL3700AW** | 1535nm UAV rangefinder, ≥3.7km against Phantom 4 | [SFL3700AW Product Manual (EN)](SFL3700AWProduct%20Manual-EN.pdf) |
+| **SFA60** | 650nm phase-shift rangefinder, 0.03–60m, ±2mm | [SFA60 Product Manual (EN)](SFA60Product%20Manual-EN.pdf) |
 > **Note**: Click any document link to view or download the PDF. All documents are in English.
 
 ## Certifications
